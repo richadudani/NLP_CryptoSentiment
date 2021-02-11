@@ -69,11 +69,11 @@ Following questions were answered:
 
 <b> Top 10 bigrams for each coin are: 
 
-![Bitcoin Top 10 bigrams](Images/BTC_BIGRAMS.png) ![Ethereum Top 10 bigrams](Images/ETH_BIGRAMS.png)
+![Bitcoin Top 10 bigrams](Images/BTC_BIGRAMS.PNG) ![Ethereum Top 10 bigrams](Images/ETH_BIGRAMS.PNG)
 
 <b> Top 10 words for each coin are: 
 
-![Bitcoin Top words](Images/BTC_WORDS.png) ![Ethereum Top 10 words](Images/ETH_WORDS.png)
+![Bitcoin Top words](Images/BTC_WORDS.PNG) ![Ethereum Top 10 words](Images/ETH_WORDS.PNG)
 
 #### Word Clouds
 
